@@ -24,7 +24,7 @@ Java is a Hibryd Languague. It means that internally, have both process (compile
 
 **1. Your date of birth in the matrix? exercise**
 
-    2^0 2^1 2^2 2^3 2^4 2^5 2^6 2^7 2^8 2^9
+    **2^0 2^1 2^2 2^3 2^4 2^5 2^6 2^7 2^8 2^9**
 
 
 **2. MIPS exercise**
