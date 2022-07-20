@@ -16,7 +16,7 @@ Java is a Hibryd Languague. It means that internally, have both process (compile
 
     1. START
     2. UsdAmount <-- GET
-    3. BtcNum <-- UsdAmount/0.000042
+    3. BtcNum <-- UsdAmount * 0.000042
     4. PRINT BtcNum
     5. END
 
