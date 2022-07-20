@@ -20,3 +20,10 @@ Java is a Hibryd Languague. It means that internally, have both process (compile
     4. PRINT BtcNum
     5. END
 
+### Week challenges (Wednesday) 
+
+**1. Your date of birth in the matrix? exercise
+
+
+**2. MIPS exercise
+
