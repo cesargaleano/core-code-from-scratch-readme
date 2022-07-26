@@ -89,6 +89,11 @@ if ((cond === true)) {
   console.log('The cond variable is false');
 }
 ```
+```
+var cond = false;
+cond? console.log('The cond variable is true') : console.log('The cond variable is false');
+ 
+```
 
 **3. Bad Code 2 exercise**
 
