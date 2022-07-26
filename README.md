@@ -57,6 +57,16 @@ let i = 1;
     }
     console.log(evenNums);
 ```
+#### Using do While Loop
+```
+const evenNums=[];
+let i = 1;
+    do{
+    if(i%2===0) evenNums.push(i);
+    i+=1;
+    } while(i<=100)
+    console.log(evenNums);
+```
 
 
 **2. Bad Code exercise**
