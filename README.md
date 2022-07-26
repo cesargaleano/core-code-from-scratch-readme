@@ -71,6 +71,24 @@ let i = 1;
 
 **2. Bad Code exercise**
 
+#### Bad Code
+```
+var cond = false;
+if ((cond = true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+```
+#### Good Code
+```
+var cond = false;
+if ((cond === true)) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
+```
 
 **3. Bad Code 2 exercise**
 
