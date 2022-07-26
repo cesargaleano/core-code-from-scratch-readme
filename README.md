@@ -38,7 +38,13 @@ My date of birth is 1981.
 **1. Print special numbers exercise**
 Print all the even numbers in the range of numbers from 0 to 100.
 
-`code`
+`
+const = evenNums=[];
+    for(let i=1;i<=100;i++){
+    !i%2? evenNums.push(i);
+    }
+    console.log(evenNums);
+`
 
 **2. Bad Code exercise**
 
