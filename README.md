@@ -80,7 +80,7 @@ if ((cond = true)) {
   console.log('The cond variable is false');
 }
 ```
-#### Good Code
+#### Good Code Alternative 1
 ```
 var cond = false;
 if ((cond === true)) {
@@ -89,6 +89,7 @@ if ((cond === true)) {
   console.log('The cond variable is false');
 }
 ```
+#### Good Code Alternative 2
 ```
 var cond = false;
 cond? console.log('The cond variable is true') : console.log('The cond variable is false');
