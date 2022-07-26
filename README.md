@@ -33,3 +33,23 @@ My date of birth is 1981.
 
 **2. MIPS exercise**
 
+### Week challenges (Thursday) 
+
+**1. Print special numbers exercise**
+Print all the even numbers in the range of numbers from 0 to 100.
+
+`code`
+
+**2. Bad Code exercise**
+
+
+**3. Bad Code 2 exercise**
+
+
+**4. Follow Git Course**
+
+Print special numbers exercise
+Bad Code exercise
+Bad Code 2 exercise
+Follow Git Course
+
