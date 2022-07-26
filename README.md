@@ -36,9 +36,10 @@ My date of birth is 1981.
 ### Week challenges (Thursday) 
 
 **1. Print special numbers exercise**
+
 Print all the even numbers in the range of numbers from 0 to 100.
 
-***Using for Loop***
+#### Using for Loop
 ```
 const evenNums=[];
     for(let i=1;i<=100;i++){
